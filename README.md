@@ -10,7 +10,7 @@ Key value that we provide:
   1. Users search for netas from his/her addresss and it provides info about them:
     - List of candidates
       for each of the canadidates
-      party
+      - party
       agenda points
       tweets
     Election agenda and points : personal and party
