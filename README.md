@@ -12,4 +12,5 @@ Key value that we provide:
           - party
           -agenda points
           -tweets
-  2.  
+  2.  Pincode taluk mapping: https://visualize.data.gov.in/?inst=6176ee09-3d56-4a3b-8115-21841576b2f6
+      Taluk constituency mapping: https://eci.gov.in/files/category/958-final-publication/
