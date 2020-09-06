@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Get Info</h1>
+    <form action="getinfo" method="get" novalidate>
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.latitude.label }}<br>
+            {{ form.latitude(size=32) }}
+        </p>
+        <p>
+            {{ form.longitude.label }}<br>
+            {{ form.longitude(size=32) }}
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+{% endblock %}1
