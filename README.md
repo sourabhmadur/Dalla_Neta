@@ -23,3 +23,5 @@ Key value that we provide:
       
     
   3. Stanford polygon data : https://earthworks.stanford.edu/catalog/stanford-pz792fz1776
+  
+  4. Free shapefile (not 100% percent accurate): http://projects.datameet.org/maps/assembly-constituencies/
