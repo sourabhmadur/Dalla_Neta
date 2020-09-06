@@ -1,5 +1,5 @@
 from flask import Flask,render_template, flash, redirect,request
-from forms import LoginForm
+# from forms import LoginForm
 import geopandas as gpd
 from shapely.geometry import Point
 app = Flask(__name__)
